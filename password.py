@@ -1,0 +1,5 @@
+passowrd_alfa = 'aE5moJOcv4'
+login_alfa = 'afonasyev00@mail.ru'
+path_sel = r'Gopa\chromedriver_win32\chromedriver.exe'
+passowrd_alfa_samat = 'pl43FvvvMq'
+login_alfa_samat = 'samat7089@gmail.com'
